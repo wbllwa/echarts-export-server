@@ -1,3 +1,8 @@
-# 应用服务 WEB 访问端口
-server.port=8080
 
+
+
+
+web-driver:
+  chrome-path: E:\chrome-win64\chrome.exe
+  chrome-driver-path: E:\chromedriver-win64\chromedriver.exe
+  proxy: 192.190.10.163:3128
